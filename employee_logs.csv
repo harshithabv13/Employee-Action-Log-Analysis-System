@@ -1,0 +1,51 @@
+Employee_ID,Name,Department,Action,Timestamp,IP_Address,Status,File_Size_MB
+101,Rahul,IT,Login,01-01-2024 09:00,192.168.1.1,Success,0
+102,Priya,HR,Login,01-01-2024 09:10,192.168.1.2,Failed,0
+103,Amit,Finance,File Download,01-01-2024 22:15,192.168.1.3,Success,700
+104,Neha,IT,Access Secure File,01-01-2024 11:20,192.168.1.4,Success,20
+105,Ravi,Sales,Login,01-01-2024 02:00,192.168.1.5,Success,0
+106,Anjali,HR,File Download,01-01-2024 14:00,192.168.1.6,Success,50
+107,Karan,Finance,Login,01-01-2024 15:30,192.168.1.7,Failed,0
+108,Meena,IT,File Upload,01-01-2024 16:10,192.168.1.8,Success,100
+109,Arjun,Sales,Access Secure File,01-01-2024 23:45,192.168.1.9,Success,30
+110,Sneha,HR,Login,01-01-2024 08:45,192.168.1.10,Success,0
+111,Vikram,IT,File Download,01-01-2024 12:30,192.168.1.11,Success,900
+112,Divya,Finance,Login,01-01-2024 01:10,192.168.1.12,Failed,0
+113,Rohan,Sales,File Upload,01-01-2024 17:00,192.168.1.13,Success,60
+114,Pooja,IT,Access Secure File,01-01-2024 03:20,192.168.1.14,Success,10
+115,Suresh,Finance,Login,01-01-2024 10:15,192.168.1.15,Success,0
+116,Asha,HR,File Download,02-01-2024 13:20,192.168.1.16,Success,40
+117,Deepak,Sales,Login,02-01-2024 09:25,192.168.1.17,Success,0
+118,Nikita,IT,Access Secure File,02-01-2024 23:59,192.168.1.18,Success,15
+119,Harish,Finance,File Upload,02-01-2024 18:10,192.168.1.19,Success,120
+120,Kavya,HR,Login,02-01-2024 00:40,192.168.1.20,Failed,0
+121,Ajay,IT,File Download,02-01-2024 21:50,192.168.1.21,Success,850
+122,Shreya,Sales,Login,02-01-2024 11:35,192.168.1.22,Success,0
+123,Naveen,Finance,Access Secure File,02-01-2024 04:15,192.168.1.23,Success,25
+124,Varun,IT,File Upload,02-01-2024 16:40,192.168.1.24,Success,80
+125,Ritika,HR,Login,02-01-2024 07:50,192.168.1.25,Success,0
+126,Sanjay,Finance,File Download,03-01-2024 14:25,192.168.1.26,Success,650
+127,Madhu,Sales,Login,03-01-2024 03:00,192.168.1.27,Failed,0
+128,Ganesh,IT,Access Secure File,03-01-2024 12:45,192.168.1.28,Success,18
+129,Chitra,HR,File Upload,03-01-2024 19:10,192.168.1.29,Success,90
+130,Yash,Finance,Login,03-01-2024 10:00,192.168.1.30,Success,0
+131,Monika,IT,File Download,03-01-2024 23:10,192.168.1.31,Success,920
+132,Rakesh,Sales,Access Secure File,03-01-2024 05:30,192.168.1.32,Success,12
+133,Pallavi,HR,Login,03-01-2024 08:20,192.168.1.33,Success,0
+134,Manoj,Finance,File Upload,03-01-2024 17:40,192.168.1.34,Success,75
+135,Keerthi,IT,Login,03-01-2024 01:15,192.168.1.35,Failed,0
+136,Suraj,Sales,File Download,04-01-2024 13:55,192.168.1.36,Success,500
+137,Lavanya,HR,Access Secure File,04-01-2024 09:35,192.168.1.37,Success,22
+138,Prakash,Finance,Login,04-01-2024 15:15,192.168.1.38,Success,0
+139,Bhavana,IT,File Upload,04-01-2024 18:25,192.168.1.39,Success,110
+140,Rohit,Sales,Login,04-01-2024 02:45,192.168.1.40,Failed,0
+141,Tejas,IT,File Download,04-01-2024 20:10,192.168.1.41,Success,780
+142,Nandini,HR,Access Secure File,04-01-2024 06:05,192.168.1.42,Success,16
+143,Kishore,Finance,File Upload,04-01-2024 17:50,192.168.1.43,Success,55
+144,Sindhu,Sales,Login,04-01-2024 11:00,192.168.1.44,Success,0
+145,Vinay,IT,Access Secure File,04-01-2024 22:30,192.168.1.45,Success,35
+146,Rekha,HR,File Download,05-01-2024 14:45,192.168.1.46,Success,430
+147,Abhishek,Finance,Login,05-01-2024 00:20,192.168.1.47,Failed,0
+148,Sahana,Sales,File Upload,05-01-2024 16:30,192.168.1.48,Success,95
+149,Darshan,IT,File Download,05-01-2024 23:40,192.168.1.49,Success,980
+150,Aparna,HR,Login,05-01-2024 09:05,192.168.1.50,Success,0
