@@ -1,24 +1,37 @@
-# Employee-Action-Log-Analysis-System
+# 🛡️ SOC CyberShield: Employee Action Log Analysis System
 
-Real-time employee monitoring system that analyzes action logs to detect suspicious activities, generate instant alerts, and improve organizational security and operational efficiency.
+A modern, production-grade Security Operations Center (SOC) web application that ingests system audit logs to monitor employee actions in real-time. The platform utilizes hardcoded heuristic security constraints alongside unsupervised Machine Learning (`IsolationForest`) to isolate insider threats, flag data exfiltration risks, and maximize organizational infrastructure security.
 
-## Features
-- Employee activity monitoring
-- Failed login detection
-- Unusual access time alerts
-- Large file transfer detection
-- Machine learning anomaly detection
+---
 
-## Technologies Used
-- Python
-- Pandas
-- Scikit-learn
+## 🚀 Key Features
 
-## Installation
+* **Live Data Ingestion:** Drag-and-drop CSV log parsing directly through an active web interface.
+* **Interactive Control Hub:** Live adjustments for shift-hour thresholds and maximum allowable data transfer sizes.
+* **Dynamic KPI Telemetry Row:** Instant metric counters displaying total volume, auth failures, schedule drifts, and data leaks.
+* **Rule-Based Security Alerts Engine:** Automatic contextual flag generation for policy violations (e.g., failed logins, off-hours access, huge file sizes).
+* **AI Anomaly Suite:** Unsupervised machine learning models utilizing multi-dimensional feature mapping to identify hidden threat vectors.
+* **Interactive Spatial Mapping:** Beautifully integrated visual scatter plots plotting activity hours against data packet sizes.
+* **High-Contrast Dark Theme:** Sleek Cyberpunk-inspired design engineered for rapid structural readability.
 
-pip install pandas
-pip install scikit-learn
+---
+
+## 🛠️ Technologies Used
+
+* **Python** (Core application engine logic)
+* **Streamlit** (Production-grade frontend web application framework)
+* **Pandas** (Data matrix ingestion, feature extraction, and manipulation)
+* **Scikit-learn** (Isolation Forest outlier detection model matrix)
+* **Matplotlib** (Spatial feature map generation and rendering graphs)
+
+---
+
+## 📦 Installation & Setup
+
+Before running the application, make sure you install the complete updated project dependencies:
+
+```bash
+python -m pip install pandas scikit-learn streamlit matplotlib
 
 ## Run Project
-
-python app.py
+python -m streamlit run app.py
